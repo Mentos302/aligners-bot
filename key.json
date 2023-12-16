@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mateupflower",
+  "private_key_id": "82e19032a9a38c7801ec36c9ce9d0e9bec172b2d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCt+Nx8Xsr9kG/t\nRX6G7cnnxlJOFW2DvPGfVrboga6zfJiU2R7GheVmva8LMsIHbpSHBEngeXx861Fi\nw+QOWTIxRTYRR26m/vZK1UpPrJs4fVjT619siHB05Hygue2zs2fhMO5sPoIPx+Gg\nD2BkgTOTjgdlcmlWwY6lrvPloznP6P+ni+8ODqmgeGJ44gUvXtPksEREJeRxqtbs\nF/8Ayi8/LJg0MIDezCfq9uFzfMKavJLJPLAUy7gEOEDozgrUabSTK9xIR59bjNxo\nFpcpRRfmovFRpBmnjRT/+RWMG6qfMSnL2gkanYDeXe2yuVgVof23EVHN+ZzUqkqq\nQtUs5LD5AgMBAAECggEAAUxkz+BQvUb7UN7miHkEm2Bba6YFCtlJh94IsDBMlp4Y\n0O6UaFimO0ex42Bh+pZ4kQ/nAcACXffPJBCwdmtzwJKiykr5UFGBktIn83OHNosX\n8z/z1r5ncXXlmLj+hUty3GdGNkRaqeW84ToQJvvgX8rs8vTBRMKdzw6A1z9KPosc\nWjNi/NQQALWjmZE3NULCBfQGCN4E+neg7Vpr+LzHSR36VmYolJf3ZuUseqKcwQV8\nijUzgLLt1uQIrOVOHQ5+4PT0rc/zAgzHKpzDCKmrb0Cn/CFsa5DF7WqHO7Huw21U\nh/CTVsg39THYVec78vV0rC6iG1HUf0iFZKz7zWJc4QKBgQDhRMt20RITMdyr5Vhm\nfy/aQI1jszOPMwqx1ZmUp03IMLyC561m8qXXLZNS+Onu11Re5X0uN2y7SPPGLlbL\nIce8Y4xHyEjIOoj3WWZPinaRwhVfiI7UxSl5HWKBM8VwLGN+fm4YasARObUeTSM3\nN8V+223yYzMEGdsjWz1WBdNkWQKBgQDFtJoIg54CTY+UL8x4CRxxUfDFA80OqQNA\nHfc2YsalQ0rhnR2CmRp55diZPiPtiQ4EjXW7GL7P0Jik5ck4DNv30YA8oKPM26Xm\nStmM8VRUEctmlkwh44fsIBvmEoJYWs9C4ICIiu+xxAjmjrNzIhTzwxNKgaQ27bLd\nJZuWpKidoQKBgQCvdm1gy/JfPxxaTBayJ2k3f8ZhnQiRBrnS0MSClFoyjzuWXyyi\nnmfslhRFsZpNLi4KiIgbwpIPwwAWIqv6JwKzy3pNw0Rlqapbt6fIVtqKJ/mL4wsV\n0ci/DNNYPeIQwJJyybmpjSSzhhZ8VqsSbH+JkxMtlHT9QcJ95Kh+46THaQKBgFsg\n498Iy8xD8+paHeU2TeXt3wzws5QOU3E6Xriyzt1eJyXXRcLsz0dgqnX4LpdOlSeE\nDMAwp8MiYzmesSEkzD9uUa2gXeAPXmjIF37fvf8CNL8UiAMW3Y/5POLPpUUUlnQ9\nBwHpCJLnyTJ8lDp9eyrgwAOXvhmTdt54dz74psABAoGBANWORO4f3bKvcs3aa4qm\nZEGSRQp3ix96pi0ECUKDG2WSU0YtImmi1O6tygiL3u/MWtT1OwemyoCwyBnL2HVE\nGN/uk7MhYJjNMuT+Tmy0EIvhWtVfAKKbmvFTFx8+oc9mHnupMiys5Alk/t29lV65\n63Nda2YGKSC5qfVdZuhEyPKm\n-----END PRIVATE KEY-----\n",
+  "client_email": "ihor-296@mateupflower.iam.gserviceaccount.com",
+  "client_id": "100365461012795556513",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ihor-296%40mateupflower.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
